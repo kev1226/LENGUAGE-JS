@@ -3,7 +3,7 @@ const app = express();
 const port = 8082;
 
 app.get('/', (req, res) => {
-  res.send('¡STRENGTHENING JAVASCRIPT!');
+  res.send('¡STRENGTHENING JAVASCRIPT PULL!');
 });
 
 app.listen(port, () => {
